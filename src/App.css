@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+/* My Styles */
+
+.images {
+  border-radius: 50%;
+  padding: 10px;
+
+}
+
+.images:hover {
+  box-shadow: inset -15px -15px 5px black;
+}
+
+.back {
+  background-image: url("./images/marvelBackground.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.nb {
+  font-family: 'Roboto Mono', monospace;
+}
